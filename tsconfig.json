@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["vuetify"],
     "target": "es5",
     "module": "esnext",
     "strict": true,
